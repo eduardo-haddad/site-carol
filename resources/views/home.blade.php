@@ -23,7 +23,7 @@
     <!-- Bloco2 -->
     <div class="bloco">
       <div class="imagem">
-        <img src='https://i.imgur.com/t9j6cmY.png'>
+        <img src='https://housemydog.com/blog/wp-content/uploads/2017/03/1-1.jpg'>
       </div>
       <div class="descricao">
         DOPE

@@ -7,7 +7,7 @@
 
   <!--  Meta  -->
   <meta charset="UTF-8" />
-  <title>Página do Leo</title>
+  <title>pagina do primo da carol</title>
 
   <!--  Styles  -->
   <link rel="stylesheet" href="{{asset('css/style.css')}}">
