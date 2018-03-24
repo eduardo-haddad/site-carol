@@ -2,8 +2,7 @@ body {
   background: #ffffff;
   margin: 0;
   overflow-x: hidden;
-  font-size: 16px;
-}
+  }
 
 img {
   width: 100%;
@@ -38,6 +37,7 @@ li {
   margin-top: 10px;
   font-weight: 200;
   font-family: 'Roboto Slab', serif;
+  font-size: 16px;
 }
 
 li:hover {
@@ -198,5 +198,25 @@ li:hover {
     display: block;
     z-index: 2;
   }
+  .descricao {
+    font-size: 30px;
+  }
+}
 
+@media screen and (max-width:414px), screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 1.5) {
+ .descricao {
+    font-size: 20px;
+  }
+  #container-menu h4 {
+    font-size: 19px
+  }
+  li {
+    font-size: 15px;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  .footer {
+    font-size: 13px;
+  }
 }
